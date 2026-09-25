@@ -12,3 +12,6 @@
   git status                                                                                                                           
   git add testing.py                                                                                                                   
   git status            
+
+                                            
+  48 git remote -v                                                 
